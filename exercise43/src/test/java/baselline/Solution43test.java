@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class Solution41test {
+public class Solution43test {
     @Test
     void createWebsite_works() {
 
@@ -13,8 +13,8 @@ public class Solution41test {
         websiteGenerator wg = new websiteGenerator();
 
         wg.path = "src/main/java/ex43/";
-        wg.siteName = "testwebsite.com";
-        wg.author = "Jose Valencia";
+        wg.siteName = "test.com";
+        wg.author = "Jesse lekwa";
 
         String expected = "src/main/java/ex43/testwebsite.com";
         String actual = wg.createWebsite();
