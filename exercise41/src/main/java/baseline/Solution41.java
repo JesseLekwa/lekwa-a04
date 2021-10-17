@@ -49,7 +49,7 @@ public class Solution41{
 
         names.sort(String.CASE_INSENSITIVE_ORDER);
 
-        
+
         inputFile.close();
 
         // writing the required data to the output file
