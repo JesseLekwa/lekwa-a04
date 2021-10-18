@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class Solution46
+{
++void main
++HashMap<String, Integer> map = rf.getMap()
+}
+
+class ReadInputFile
+{
++ void readfile
++public HashMap<String, Integer> getMap()
+
+}
+
+class PrintReport
+{
++void printScreen
+
+
+}
+@enduml
