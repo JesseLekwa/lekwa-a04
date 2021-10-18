@@ -3,17 +3,22 @@
 
 class Solution45
 {
-+ main
++ void main
++ string output()
+
 
 }
 
 class ReadFile
 {
 +void readfile
+++public ArrayList<String> getdata()
 }
 
 class WriteFile
 {
 +void writefile
+
++public int getModification()
 }
 @enduml
